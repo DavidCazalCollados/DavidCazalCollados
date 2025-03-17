@@ -5,10 +5,10 @@ After 8 years working in the film industry, I made a career change into tech, co
 
 One of my proudest achievements so far is creating Filmdash, a TV show recommendation app, which I developed with a team in just 2 weeks as part of my bootcamp project. It matches users with shows based on their preferences and streaming platforms, and I had the chance to work with Vue.js and Ruby on Rails to bring it to life.
 
-- 🔭 I’m currently working on:
-  - A TV show recommendation app, where I'm refining my skills in front-end technologies and creating a smooth user experience.
-  - My portfolio website using React, which will showcase my projects, skills, and journey as a developer.
-- 🌱 I’m currently learning React
-- ⚡ Fun fact: In addition to French (my native language), I’m fluent in English and Spanish.
-
+🔭 I’m currently working on:
+    A photo e-commerce project with self-shot images, where I’m applying my front-end skills to create a smooth user experience and a visually appealing design.
+    My portfolio website(https://www.davidcazal.ca/), built with React, which showcases my projects, skills, and journey as a developer.
+🌱 I’m currently learning React to further enhance my front-end skills.
+⚡ Fun fact: In addition to French (my native language), I’m fluent in English and Spanish.
+  
 Feel free to check out my repositories and connect with me if you want to collaborate or just chat about web development!
